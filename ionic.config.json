@@ -1,0 +1,8 @@
+{
+  "name": "ionicFoundedGoApp",
+  "app_id": "0e3d28f5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
